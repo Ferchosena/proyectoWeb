@@ -1,3 +1,27 @@
 body{
     background-color: rgb(228, 237, 238);
 }
+.imgagen{
+    width: 30%;
+    height: 30%;
+   
+}
+td{
+    text-align: center;
+    padding: 10px;
+}
+table{
+    margin: 0 auto;
+    border-color: black;
+ 
+}
+caption{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 8px;
+}
+th{
+    background-color: brown;
+    color: white;
+    font-size: 18px;
+}
